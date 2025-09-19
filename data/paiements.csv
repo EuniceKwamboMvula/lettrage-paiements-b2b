@@ -1,0 +1,5 @@
+paiement_id;client_id;montant_paye
+P001;C001;1000
+P002;C001;200
+P003;C002;1500
+P004;C003;1500
