@@ -31,3 +31,14 @@ Projet-lettrage/
 3. Exécuter le script :
    ``` bash
    python lettrage.py
+4. Le resultat se trouve dans :
+output/balance_clients.csv
+
+## Améliorations possibles
+- gestion des paiements en trop ou non identifiés (paiements sans facture correspondante).
+- Ajout d'un tableau de bord (ex. Power BI, Streamlit).
+- Automatisation des justificatifs (via google Drive API).
+- Création d'une API pour intégrer le lettrage dans une application Web.
+
+## Auteur
+Projet réalisé par Eunice Kwambo Mvula, inspiré des missions d'agent de lettrage des paiements.
