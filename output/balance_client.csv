@@ -1,0 +1,4 @@
+client_nom,total_facture,client_id,total_paye,solde_restant,statut
+Entreprise Alpha,1500,Entreprise Alpha,1200,300,Partiellement Payé
+Entreprise Beta,2000,Entreprise Beta,1500,500,Partiellement Payé
+Entreprise Gamma,1500,Entreprise Gamma,1500,0,Payé
